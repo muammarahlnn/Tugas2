@@ -41,7 +41,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btn_artikel"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginStart="48dp"
@@ -58,6 +58,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Button
+        android:id="@+id/btn_biodata"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginStart="48dp"
@@ -71,7 +72,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button" />
+        app:layout_constraintTop_toBottomOf="@+id/btn_artikel" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
