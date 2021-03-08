@@ -1,3 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Tugas2</string>
+    <string name="app_name">Tugas 2</string>
+    <string name="judul_artikel">Selebgram di Makassar Tewas Ditikam</string>
+    <string name="isi_artikel">
+        AP(20) seorang selebgram di Makassar ditemukan tewas di salah satu wisma di Jalan Topaz, Kecamatan Panakkukang, Makassar pada Jumat (5/3/2021) sekitar pukul 05.00 WIB.
+        \n\nIa diduga tewas setelah ditikam dengan pisau dapur oleh teman perempuannya yang bernama AS(19). AS tercatat sebagai salah satu mahasiswa di kampus ternama Makassar.
+        \n\nSaat kejadian, AP berhasil keluar kamar dengan kondisi bersimbah darah menuju ke resepsionis.
+        \n\nIa sempat meminta tolong hingga kemudian menghembuskan napas terkahir saat dilarikan ke rumah sakit. Dia diduga tewas karena kehabisan darah.
+        \n\nAS kemudian diamankan dan dimintai keterangan oleh polisi. Gadis 19 tahun tersebut mengaku mengenal AP di media sosial sejak enam bulan yang lalu. Mereka pun mulai dekat.
+        \n\nHingga akhirnya kedekatan mereka merenggang dan AP akan memutuskan hubungan mereka. AS mengaku sudah berusaha melakukan berbagai cara agaar AP tidak meninggalkannya. Bahkan dia sempat mengaku hamil kepada AP.
+        \n\nNamun upaya tersebut tidak direspons oleh korban. Di hari kejadian, sekitar pukul 03.00 WITA, AS berusaha menghubungi Ap. Mereka kemudian janji bertemu di salah satu minimarket.
+        \n\n"Saya sebelumnya alasan orangtua keluar sebentar mau beli sesuatu di Indomaret" ujar dia.
+        \n\nSetelah bertemu, mereka berdua menginap di salah satu wisma di Jalan Topaz sekitar pukul 03.14 WITA. Diduga AS telah merencanakan penikaman karena ia membawa pisau dapur. Di wisma tersebut, AS menganiaya AP.
+        \n\nSementara itu Kanit Reskrim Polsek Panakukkang Iptu Iqbal Usman mengatakan AS menikam dengan sebilah pisau dapur di lantai 2.
+        \n\n"Pelaku (AS) menggunakan sebilah pisau menusuk korban (AP), hingga korban ditemukan di TKP banyak mengeluarkan darah hingga meninggal dunia," kata Iptu Iqbal Usman.
+        \n\nSetelah mendapatkan luka tusukan, AP lari menyelamatkan diri ke lantai satu.
+        \n\n"Kronologis singkat kejadiannya berawal dari lantai dua di salah satu kamar wisma ini. Kemudian setelah korban dianiaya, lari menyelamatkan diri di lantai satu (dasar)," ujarnya.
+        \n\nKorban sempat dibawa ke Rumah Sakit Bhayangkara. Namun diduga karena kehabisan darah, nyawa AP tidak tertolong.
+        \n\nDetik - detik penikaman tersebut terekam di kamera CCTV di wisma tersebut. Melansir dari Tribun Timur, dalam rekaman yang beredar memperlihatkan seorang laki - laki keluar dari kamar tanpa busana.
+        \n\nLaki - laki tersebut terlihat memegang bagian perutnya yang bersimbah darah. Tak lama kemudian, seorang wanita yang diduga pelaku keluar dari kamar. Kamera CCTV juga merekam sebuah pisau yang diselipkan di bagian stokingnya.
+    </string>
+    <string name="biodata_label">Biodata</string>
+    <string name="artikel_label">Artikel</string>
 </resources>
