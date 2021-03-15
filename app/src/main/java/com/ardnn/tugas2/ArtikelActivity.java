@@ -33,9 +33,11 @@ public class ArtikelActivity extends AppCompatActivity implements View.OnClickLi
                 startActivity(goToMain);
                 finishAffinity();
                 break;
+
             case R.id.btn_biodata:
                 Intent goToBiodata = new Intent(ArtikelActivity.this, BiodataActivity.class);
                 startActivity(goToBiodata);
+                finish();
                 break;
         }
     }
